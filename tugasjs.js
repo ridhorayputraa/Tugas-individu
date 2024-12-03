@@ -1,0 +1,2 @@
+// Tugas JS nya adalah Buatkan fungsi ganjil genap yang dimana fungsi nya adalaha menrima array yang berupa sebuah angka, bebas boleh pake callback atau biasa
+// Buatkan fungsi sapa nama dengan catatan parameter namanya adalah array yang dinamai Nama
